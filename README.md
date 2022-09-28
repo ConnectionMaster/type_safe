@@ -1,4 +1,5 @@
-# type_safe
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ # type_safe
 
 [![Build Status](https://travis-ci.org/foonathan/type_safe.svg?branch=master)](https://travis-ci.org/foonathan/type_safe)
 [![Build status](https://ci.appveyor.com/api/projects/status/aw1j2h2s52g4laen/branch/master?svg=true)](https://ci.appveyor.com/project/foonathan/type-safe/branch/master)
